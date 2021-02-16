@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Venoli</h1>
 <h3 align="center">I'm a girl who dreams a lot and shoot for make them real. 🧚‍♀️ Call me Venus :) I like it🌸</h3>
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+<img align="right" width="400" height="300" src="me.gif">
+
 
 - 🔭 I’m currently working on **👩‍🎓 + 🍊 an AR app**
 
