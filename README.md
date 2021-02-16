@@ -2,7 +2,7 @@
 <h3 align="center">I'm a girl who dreams a lot and shoot for make them real. 🧚‍♀️ Call me Venus :) I like it🌸</h3>
 </br>
 
-<img align="right" width="400" height="300" src="me1.gif">
+<img align="right" width="400" height="300" src="me.gif">
 
 
 - 🔭 I’m currently working on **👩‍🎓 + 🍊 an AR app**
