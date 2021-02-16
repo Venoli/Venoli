@@ -41,6 +41,7 @@
 </br>
 <h3 align="left">Planned to Learn:</h3>
 <p align="left">
+<a href="https://scikit-multiflow.github.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Scikit-multiflow-logo.png" alt="scikit_multiflow" width="60" height="40"/> </a> 
 <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
 <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> </p>
 </br>
